@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 import joblib
 
-preprocess_enc_scal = joblib.load('Model\Encoder\preprocess_enc_scal.joblib')
+preprocess_enc_scal = joblib.load('Model/Encoder/preprocess_enc_scal.joblib')
 
 
 class ColumnSelectorTransformer(BaseEstimator, TransformerMixin):
