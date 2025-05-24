@@ -45,7 +45,7 @@ Tools yang digunakan :
 ```
 Tableau
 ```
-Dashboard dapat diakses [di sini](https://public.tableau.com/views/JayaJayaMaju_17460798610090/JayaJayaMaju?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard dapat diakses [di sini](https://public.tableau.com/views/JayaInstitut/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Menjalankan Aplikasi
 1. Pastikan sudah buat environment sebelumnya dan install semua kebutuhan library dengan mengikuti langkah langkah pada bagian setup environment sebelumnya
@@ -63,7 +63,7 @@ Dashboard dapat diakses [di sini](https://public.tableau.com/views/JayaJayaMaju_
     ```
 
 ## Alternatif akses aplikasi
-Kalian dapat mengakses aplikasi dengan mengklik [di sini]()
+Kalian dapat mengakses aplikasi dengan mengklik [di sini](https://jayajayainstitut-62e2dpfhkc347ypnafmzgw.streamlit.app/)
 
 
 ## Conclusion
